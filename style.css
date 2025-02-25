@@ -1,0 +1,56 @@
+header{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+nav{
+width: 600px;
+display: flex;
+justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color:gray;
+    font-weight: 900;
+}
+.box{ 
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.box div{
+    width: 35%;
+
+}
+.box button{width: 197px;
+height: 50px;
+border-radius: 30px;
+border-color: blue 2px solid;
+color: white;
+}
+a:hover{
+    color: black;
+}
+button:active{
+    background-color: blue;
+}
+.p{text-align: center;}
+.container div{
+    width: 380px;
+    height: 380px;
+    background-color: gray;
+    display: flex;
+
+}
+
+.container img{ width: 100px;
+height: 100px;}
+
+
+.container div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
